@@ -87,12 +87,14 @@ h2 {
 .card-content h3 {
     margin-bottom: 12px;
     font-size: 18px;
+    text-align: center;
 }
 
 .card-content p {
     color: #bbbbbb;
     font-size: 14px;
     line-height: 1.5;
+    text-align: center;
 }
 
 /* BOTÕES */
